@@ -1,0 +1,10 @@
+xcuserdata
+project.xcworkspace
+*xcuserdatad*
+xcuserdatad
+xcshareddata
+.gitignore~
+BeaconTest.xcodeproj/xcuserdatad*
+Pods
+.DS_Store
+Podfile~
